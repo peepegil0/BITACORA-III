@@ -22,7 +22,4 @@ Leyendo artículos sobre gestión empresarial de registros, entendí por qué no
 
 La solución es el *Log Management*: enviar esos registros en tiempo real a un servidor externo seguro. Así, aunque te revienten el servidor principal, el atacante no podrá borrar sus huellas porque ya están a salvo en otro sitio. Además, esto es vital por temas legales en España. Si hay una fuga de datos y nos hacen una auditoría, tener los logs externalizados y protegidos es la única manera de demostrar ante la ley qué ha pasado exactamente y que tenían las medidas de seguridad adecuadas.
 
-## Referencias Bibliográficas
 
-* A. Autor, "Gestión centralizada de logs y su impacto en la seguridad empresarial," *Revista de Ciberseguridad Aplicada*, vol. 3, no. 2, pp. 15-20, 2024.
-* B. Autor, "Análisis forense en sistemas Linux: Syslog y normativas de privacidad," *Congreso Nacional de Sistemas Informáticos*, pp. 45-52, 2023.
